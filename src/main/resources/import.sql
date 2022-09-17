@@ -1,0 +1,1 @@
+INSERT INTO tb_users(login,password) VALUES ('caio', '$2a$10$IACMwRfC5d15rI4e2Uk.BOy3bg0OJ6kh1FsAtooc5na29dRlmwhIa');
